@@ -1,0 +1,170 @@
+﻿[
+  {
+    "details": "Engine failure at 33 seconds and loss of vehicle",
+    "id": "5eb87cd9ffd86e000604b32a",
+    "upcoming": false,
+    "launch_date_local": "2006-03-25T10:30:00+12:00",
+    "mission_name": "FalconSat"
+  },
+  {
+    "details": "Successful first stage burn and transition to second stage, maximum altitude 289 km, Premature engine shutdown at T+7 min 30 s, Failed to reach orbit, Failed to recover first stage",
+    "id": "5eb87cdaffd86e000604b32b",
+    "upcoming": false,
+    "launch_date_local": "2007-03-21T13:10:00+12:00",
+    "mission_name": "DemoSat"
+  },
+  {
+    "details": "Residual stage 1 thrust led to collision between stage 1 and stage 2",
+    "id": "5eb87cdbffd86e000604b32c",
+    "upcoming": false,
+    "launch_date_local": "2008-08-03T15:34:00+12:00",
+    "mission_name": "Trailblazer"
+  },
+  {
+    "details": "Ratsat was carried to orbit on the first successful orbital launch of any privately funded and developed, liquid-propelled carrier rocket, the SpaceX Falcon 1",
+    "id": "5eb87cdbffd86e000604b32d",
+    "upcoming": false,
+    "launch_date_local": "2008-09-28T11:15:00+12:00",
+    "mission_name": "RatSat"
+  },
+  {
+    "details": null,
+    "id": "5eb87cdcffd86e000604b32e",
+    "upcoming": false,
+    "launch_date_local": "2009-07-13T15:35:00+12:00",
+    "mission_name": "RazakSat"
+  },
+  {
+    "details": null,
+    "id": "5eb87cddffd86e000604b32f",
+    "upcoming": false,
+    "launch_date_local": "2010-06-04T14:45:00-04:00",
+    "mission_name": "Falcon 9 Test Flight"
+  },
+  {
+    "details": null,
+    "id": "5eb87cdeffd86e000604b330",
+    "upcoming": false,
+    "launch_date_local": "2010-12-08T11:43:00-04:00",
+    "mission_name": "COTS 1"
+  },
+  {
+    "details": "Launch was scrubbed on first attempt, second launch attempt was successful",
+    "id": "5eb87cdfffd86e000604b331",
+    "upcoming": false,
+    "launch_date_local": "2012-05-22T03:44:00-04:00",
+    "mission_name": "COTS 2"
+  },
+  {
+    "details": "CRS-1 successful, but the secondary payload was inserted into abnormally low orbit and lost due to Falcon 9 boost stage engine failure, ISS visiting vehicle safety rules, and the primary payload owner's contractual right to decline a second ignition of the second stage under some conditions.",
+    "id": "5eb87ce0ffd86e000604b332",
+    "upcoming": false,
+    "launch_date_local": "2012-10-08T20:35:00-04:00",
+    "mission_name": "CRS-1"
+  },
+  {
+    "details": "Last launch of the original Falcon 9 v1.0 launch vehicle",
+    "id": "5eb87ce1ffd86e000604b333",
+    "upcoming": false,
+    "launch_date_local": "2013-03-01T15:10:00-04:00",
+    "mission_name": "CRS-2"
+  },
+  {
+    "details": "Commercial mission and first Falcon 9 v1.1 flight, with improved 13-tonne to LEO capacity. Following second-stage separation from the first stage, an attempt was made to perform an ocean touchdown test of the discarded booster vehicle. The test provided good test data on the experiment-its primary objective-but as the booster neared the ocean, aerodynamic forces caused an uncontrollable roll. The center engine, depleted of fuel by centrifugal force, shut down resulting in the impact and destruction of the vehicle.",
+    "id": "5eb87ce1ffd86e000604b334",
+    "upcoming": false,
+    "launch_date_local": "2013-09-29T09:00:00-07:00",
+    "mission_name": "CASSIOPE"
+  },
+  {
+    "details": "First GTO launch for Falcon 9",
+    "id": "5eb87ce2ffd86e000604b335",
+    "upcoming": false,
+    "launch_date_local": "2013-12-03T18:41:00-04:00",
+    "mission_name": "SES-8"
+  },
+  {
+    "details": "Second GTO launch for Falcon 9. The USAF evaluated launch data from this flight as part of a separate certification program for SpaceX to qualify to fly U.S. military payloads and found that the Thaicom 6 launch had \"unacceptable fuel reserves at engine cutoff of the stage 2 second burnoff\"",
+    "id": "5eb87ce3ffd86e000604b336",
+    "upcoming": false,
+    "launch_date_local": "2014-01-06T14:06:00-04:00",
+    "mission_name": "Thaicom 6"
+  },
+  {
+    "details": "Following second-stage separation, SpaceX conducted a second controlled-descent test of the discarded booster vehicle and achieved the first successful controlled ocean touchdown of a liquid-rocket-engine orbital booster. Following touchdown the first stage tipped over as expected and was destroyed. This was the first Falcon 9 booster to fly with extensible landing legs and the first Dragon mission with the Falcon 9 v1.1 launch vehicle.",
+    "id": "5eb87ce4ffd86e000604b337",
+    "upcoming": false,
+    "launch_date_local": "2014-04-18T15:25:00-04:00",
+    "mission_name": "CRS-3"
+  },
+  {
+    "details": "Total payload mass was 1,316 kg (2,901 lb) : 6 satellites weighing 172 kg each, plus two 142-kg mass simulators. This was the second Falcon 9 booster equipped with landing legs. Following second-stage separation, SpaceX conducted a controlled-descent test of the first stage, which successfully decelerated from hypersonic velocity in the upper atmosphere, made reentry and landing burns, deployed its legs and touched down on the ocean surface. As with the previous mission, the first stage then tipped over as expected and was not recovered.",
+    "id": "5eb87ce4ffd86e000604b338",
+    "upcoming": false,
+    "launch_date_local": "2014-07-14T11:15:00-04:00",
+    "mission_name": "OG-2 Mission 1"
+  },
+  {
+    "details": null,
+    "id": "5eb87ce5ffd86e000604b339",
+    "upcoming": false,
+    "launch_date_local": "2014-08-05T04:00:00-04:00",
+    "mission_name": "AsiaSat 8"
+  },
+  {
+    "details": null,
+    "id": "5eb87ce6ffd86e000604b33a",
+    "upcoming": false,
+    "launch_date_local": "2014-09-07T01:00:00-04:00",
+    "mission_name": "AsiaSat 6"
+  },
+  {
+    "details": null,
+    "id": "5eb87ce7ffd86e000604b33b",
+    "upcoming": false,
+    "launch_date_local": "2014-09-21T01:52:00-04:00",
+    "mission_name": "CRS-4"
+  },
+  {
+    "details": "Following second stage separation, SpaceX performed a test flight which attempted to return the first stage of the Falcon 9 through the atmosphere and land it on an approximately 90-by-50-meter (300 ft x 160 ft) floating platform-called the autonomous spaceport drone ship. Many of the test objectives were achieved, including precision control of the rocket's descent to land on the platform at a specific point in the Atlantic ocean, and a large amount of test data was obtained from the first use of grid fin control surfaces used for more precise reentry positioning. The grid fin control system ran out of hydraulic fluid a minute before landing and the landing itself resulted in a crash.",
+    "id": "5eb87ce8ffd86e000604b33c",
+    "upcoming": false,
+    "launch_date_local": "2015-01-10T05:47:00-04:00",
+    "mission_name": "CRS-5"
+  },
+  {
+    "details": "First launch under USAF's OSP 3 launch contract. First SpaceX launch to put a satellite to an orbit with an orbital altitude many times the distance to the Moon: Sun-Earth libration point L1. The first stage made a test flight descent to an over-ocean landing within 10 m (33 ft) of its intended target.",
+    "id": "5eb87ceaffd86e000604b33d",
+    "upcoming": false,
+    "launch_date_local": "2015-02-11T19:03:00-04:00",
+    "mission_name": "DSCOVR"
+  },
+  {
+    "details": "The launch was Boeing's first-ever conjoined launch of a lighter-weight dual-commsat stack that was specifically designed to take advantage of the lower-cost SpaceX Falcon 9 launch vehicle. Per satellite, launch costs were less than $30 million. The ABS satellite reached its final destination ahead of schedule and started operations on September 10.",
+    "id": "5eb87ceaffd86e000604b33e",
+    "upcoming": false,
+    "launch_date_local": "2015-03-02T23:50:00-04:00",
+    "mission_name": "ABS-3A / Eutelsat 115W B"
+  },
+  {
+    "details": "Following the first-stage boost, SpaceX attempted a controlled-descent test of the first stage. The first stage contacted the ship, but soon tipped over due to excess lateral velocity caused by a stuck throttle valve resulting in a later-than-intended downthrottle.",
+    "id": "5eb87cecffd86e000604b33f",
+    "upcoming": false,
+    "launch_date_local": "2015-04-14T16:10:00-04:00",
+    "mission_name": "CRS-6"
+  },
+  {
+    "details": null,
+    "id": "5eb87cedffd86e000604b340",
+    "upcoming": false,
+    "launch_date_local": "2015-04-27T19:03:00-04:00",
+    "mission_name": "TürkmenÄlem 52°E / MonacoSAT"
+  },
+  {
+    "details": "Launch performance was nominal until an overpressure incident in the second-stage LOX tank, leading to vehicle breakup at T+150 seconds. The Dragon capsule survived the explosion but was lost upon splashdown because its software did not contain provisions for parachute deployment on launch vehicle failure.",
+    "id": "5eb87ceeffd86e000604b341",
+    "upcoming": false,
+    "launch_date_local": "2015-06-28T10:21:00-04:00",
+    "mission_name": "CRS-7"
+  }
+]

@@ -14,6 +14,8 @@ namespace BlazorApiClient
     {
         public static async Task Main(string[] args)
         {
+            Console.WriteLine("--> BlazorApiClient has started..");
+
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("#app");
 
